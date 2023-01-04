@@ -3,7 +3,7 @@
 
 
 class Rectangle:
-    class Rectangle:
+    """Represent a rectangle.
 
     Attributes:
         number_of_instances (int): The number of Rectangle instances.
